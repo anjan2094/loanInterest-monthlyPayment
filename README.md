@@ -1,14 +1,14 @@
-#Calculating interest and monthly payment
+# Calculating interest and monthly payment
 
 I build a UI that have two fields one is slider which is use to set the amount between 500 to 5000 and another is a input box which is use to enter the duration in month between 6 to 24.It calculate the loan interest and monthly payment using third api.
 
-##Usage
+## Usage
 
 React js, material ui and few others library.
 
 
 
-#About React app and npm
+# About React app and npm
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
