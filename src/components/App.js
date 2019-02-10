@@ -43,8 +43,8 @@ class App extends Component {
   }
 
   // This funtion handle the slider when change the amount from slider
-  handleChange = (amounts) => {
-    let amount = parseInt(amounts)
+  handleChange = (event,amounts) => {
+    let amount = parseInt(amounts);
     this.apiCall(amount, this.state.duration);
     this.setState({
       amount: amount
